@@ -101,10 +101,6 @@ Pull requests are welcome! Feel free to **fork the repository and submit your im
 
 ## 📩 Contact
 📧 **Email:** hn.sarangi96@gmail.com  
-🔗 **GitHub:** [Your GitHub Link]  
+🔗 **GitHub:** https://github.com/Hrudanand-Sarangi  
 🔗 **LinkedIn:** https://www.linkedin.com/in/hrudananda-sarangi-5827341a2/
-
----
-
-⭐ **If you like this project, give it a star!** ⭐
 
