@@ -102,7 +102,7 @@ Pull requests are welcome! Feel free to **fork the repository and submit your im
 ## 📩 Contact
 📧 **Email:** hn.sarangi96@gmail.com  
 🔗 **GitHub:** [Your GitHub Link]  
-🔗 **LinkedIn:** [Your LinkedIn Link]  
+🔗 **LinkedIn:** https://www.linkedin.com/in/hrudananda-sarangi-5827341a2/
 
 ---
 
